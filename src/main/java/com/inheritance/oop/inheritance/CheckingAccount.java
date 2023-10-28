@@ -1,5 +1,7 @@
+package com.inheritance.oop.inheritance;
+
 class CheckingAccount extends BankAccount {
-    double monthlyFee;
+    private double monthlyFee;
 
     public CheckingAccount(int accountNumber, double initialBalance, double monthlyFee) {
         super(accountNumber, initialBalance);

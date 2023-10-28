@@ -1,10 +1,8 @@
-class BankAccount {
-    int accountNumber;
-    double balance;
+package com.inheritance.oop.inheritance;
 
-public BankAccount (){
-    
-}
+class BankAccount {
+    private int accountNumber;
+    protected double balance;
 
     public BankAccount(int accountNumber, double initialBalance) {
         this.accountNumber = accountNumber;
