@@ -1,10 +1,6 @@
 # Bank Account Interface Example 
 This example demonstrates a simple banking system with savings and checking accounts, showcasing the principles of object-oriented design, including interface segregation.
 
-## Introduction
-
-In this example, we have designed a basic banking system with the following classes and interfaces:
-
 ### Interfaces
 
 1. **Account Interface**
